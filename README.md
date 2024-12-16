@@ -1,4 +1,4 @@
-# Inteeligibility Test
+# Intelligibility Test
 
 
 ## v01 December 16, 2024
