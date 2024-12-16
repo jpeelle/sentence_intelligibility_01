@@ -1,0 +1,10 @@
+14.1080 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+21.6359 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+1.3098 	WARNING 	t of last frame was 79.18ms (=1/12)
+1.7908 	WARNING 	t of last frame was 23.67ms (=1/42)
+24.0437 	WARNING 	t of last frame was 168.85ms (=1/5)
+25.1308 	WARNING 	t of last frame was 22.98ms (=1/43)
+25.4129 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
